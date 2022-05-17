@@ -1,0 +1,9 @@
+footer p {
+  max-width: none;
+  position: sticky;
+  top: 500vh;
+  margin-left: 150px;
+  margin-bottom: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(173, 98, 98);
+}
